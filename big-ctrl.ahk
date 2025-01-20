@@ -12,7 +12,7 @@ dual := new Dual
 
 ; BigCtrl-like.
 *Space::
-*Space UP::dual.combine("RCtrl", A_ThisHotkey)
+*Space UP::dual.combine("Ctrl", A_ThisHotkey)
 
 Capslock::Esc
 
