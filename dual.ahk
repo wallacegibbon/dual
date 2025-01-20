@@ -2,7 +2,7 @@ class Dual {
 	;;; Settings.
 	; They are described in detail in the readme. Remember to mirror the defaults there.
 
-	settings := {delay: 70, timeout: 300, doublePress: 200, specificDelays: false}
+	settings := {delay: 10, timeout: 300, doublePress: 200, specificDelays: false}
 
 
 	;;; Public methods.
